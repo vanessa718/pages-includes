@@ -1,0 +1,37 @@
+body{
+	font-size: 1rem;
+}
+#menu{
+    width:10%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position:fixed;
+    float:left;
+    background:#37F424;
+    text-align: center;
+}
+footer{
+	/*height: 40%;*/
+	/*margin-top: 500px;*/
+	width: 100%;
+	background-color: #F46C24;
+	color: #fff;
+	position: fixed;
+	bottom: 0;
+
+}
+p{
+	display: inline-block;
+	margin-left: 15%;
+	color: black ;
+}
+.contact{
+	display: inline-block;
+	margin-left: 50%;
+	color: black;
+}
+form{
+	text-align: center;
+	
+}
