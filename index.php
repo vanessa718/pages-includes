@@ -14,12 +14,14 @@
 	
 	<!--BODY start-->
 	<div id="firstelement">
-		<h3>Accueil</h3>
+		<img class="img" src="css/img/img1.jpg">
+		<h1>Accueil</h1>
 		<p>Ardeo, mihi credite, Patres conscripti (id quod vosmet de me existimatis et facitis ipsi) incredibili quodam amore patriae, qui me amor et subvenire olim impendentibus periculis maximis cum dimicatione capitis, et rursum, cum omnia tela undique esse intenta in patriam viderem, subire coegit atque excipere unum pro universis. Hic me meus in rem publicam animus pristinus ac perennis cum C. Caesare reducit, reconciliat, restituit in gratiam.</p>
 	</div>
 	<!--BODY end-->
 <!-- va chercher le contenu dans le fichier footer.php-->	
 	<?php include("footer.php");?>
+
 
 </body>
 </html>
